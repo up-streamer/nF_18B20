@@ -11,6 +11,6 @@ Original source code:https://github.com/sharmavishnu/nf-companion/tree/master/nf
 
 Can also be found as Nuget packages.
 
-# Diagram using ESP32 DEVKIT
+# Diagram
 
 ![alt text](https://github.com/up-streamer/nF_18B20/blob/master/ESP32%20DS18B20.png)
